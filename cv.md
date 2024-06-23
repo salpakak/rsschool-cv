@@ -14,3 +14,20 @@ ___
 - **Development Tools:** VS Code, PhpStorm
 
 ___
+## Code Samples
+```javascript
+function helloWorld() {
+  var str = "Hello World!";
+  console.log(str);
+}
+```
+___
+## Education
+
+- **Institution:** Minsk State Linguistic College
+- **Years:** 2006-2015
+___
+## Languages
+- **Belarusian:** Native
+- **English:** Upper-Intermediate (B2)
+- **Russian** Native
