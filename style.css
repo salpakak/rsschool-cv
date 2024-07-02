@@ -1,5 +1,5 @@
 body {
-    font-family: "Gloria Hallelujah";
+    font-family: "Gloria Hallelujah", sans-serif;
     min-height: 100vh;
     padding: 0;
     display: flex;
@@ -10,10 +10,8 @@ body {
     margin: 0 auto;
 }
 
-main {}
-
 h1 {
-    font-family: "Indie Flower";
+    font-family: "Indie Flower", sans-serif;
 }
 
 * {
@@ -21,22 +19,16 @@ h1 {
 }
 
 .nav {
-    /* list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: space-between; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    font-size: 30px;
     margin: 0 auto;
 
 
 }
 
 .menu li {
-    font-size: 20px;
+    font-size: 25px;
     display: inline-block;
     border: 1px solid black;
     border-radius: 50px;
@@ -55,9 +47,7 @@ a:hover {
 
 .footer {
     display: flex;
-    /* align-items: center; */
     justify-content: center;
-
 }
 
 .footer img {
